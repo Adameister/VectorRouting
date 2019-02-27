@@ -1,5 +1,6 @@
 # VectorRouting
   - Name: Adam Hudson
+  - Date: 2017-11-19
   - Class: CSE 4344 Computer Networks
   - Assignment: Lab 2 Distance vector routing programming assignment
   
